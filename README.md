@@ -52,6 +52,12 @@ Documentation is available at [https://zincsearch-docs.zinc.dev/](https://zincse
 
 ![Users screen](./screenshots/users_screen.jpg)
 
+# One-Click Deploy
+
+<a href="https://repocloud.io/details/ZincSearch/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/zincsearch"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+<a href="https://elest.io/open-source/zincsearch"><img src="https://elest.io/images/logos/deploy-to-elestio-btn.png" alt="Deploy on Elestio" height="42"></a>
+
 # Getting started
 
 ## Quickstart
